@@ -1,0 +1,29 @@
+.cl{
+    
+    height:900px;
+      font-size:130px;
+      font-family:'Gill Sans';
+      color:white;
+        background-image:url("clouds\ weather.jpg");
+        background-size: 1900px;
+        background-image: no-repeat;
+        padding-top:150px;
+    }
+    #btn:hover{
+      display:flex;
+      background-color: rgb(0, 115, 255);
+      color:white;
+    }
+    #btn{
+      display:flex;
+      width:30%;
+      height:30%;
+      font-size:90px;
+      padding-left:90px;
+      border-style:solid;
+      border-radius: 40px;
+    }
+    #city{
+      border-radius: 10px;
+      border-color: blueviolet;
+    }
